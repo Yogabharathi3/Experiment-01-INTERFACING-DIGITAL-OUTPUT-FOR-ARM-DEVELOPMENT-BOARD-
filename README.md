@@ -297,10 +297,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![WhatsApp Image 2023-08-16 at 11 52 33 AM](https://github.com/Yogabharathi3/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118899387/56d41243-741b-4add-ae26-36c1a0608372)
+![Screenshot 2023-08-18 181941](https://github.com/Yogabharathi3/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118899387/4ae36163-8212-4071-98b1-a21ca17c2478)
 
-![WhatsApp Image 2023-08-16 at 11 52 31 AM](https://github.com/Yogabharathi3/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118899387/3e01aa10-c7de-4c74-bc44-a786a77ef342)
 
+![Screenshot 2023-08-18 182408](https://github.com/Yogabharathi3/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118899387/ac6ac7eb-69b9-48c7-bdd7-50f9a4a6ee23)
 
  
  
